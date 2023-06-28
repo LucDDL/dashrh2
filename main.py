@@ -103,5 +103,4 @@ elif selected_page == "CARGA":
 
         st.dataframe(df)
 
-        # Mensagem de sucesso
-        st.success("Os dados foram carregados com sucesso.")
+
